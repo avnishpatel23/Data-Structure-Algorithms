@@ -79,4 +79,7 @@ public class PracticeQS {
         int $ = 24;
         System.out.print($);
     }
+
 }
+
+
