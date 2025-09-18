@@ -48,6 +48,7 @@
 public class PracticeQues {
     public static void main(String[] args) {
         int row = 2, column = 3;
+
         int[][] matrix = {
             {2, 3, 7},
             {5, 6, 7}
